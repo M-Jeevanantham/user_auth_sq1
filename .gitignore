@@ -1,0 +1,20 @@
+#Environmental variables
+.env
+.env.*
+
+#python virtual environment
+venv/
+.venv/
+env/
+authflow-venv/
+
+#python generated files
+__pycache__/
+*.pyo
+*.pyc
+
+#vscode settings
+.vscode/
+
+#logs
+*.log
